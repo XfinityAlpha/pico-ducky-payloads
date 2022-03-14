@@ -1,6 +1,6 @@
-# YOUR'RE SO STUPID WALLPAPER PRANK
+# YOUR'RE SO STUPID WALLPAPER PRANK  << WINDOWS >>
 
-1 - duckyscript.txt - Script
+1 - duckycode.txt - Script
 
 2 - inject.bin Paste into Rubber ducky Directory 
 
