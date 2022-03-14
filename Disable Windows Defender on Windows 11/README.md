@@ -1,6 +1,6 @@
 # Disable Windows Defender on Windows 11
 
-1 - duckyscript.txt - Script
+1 - duckycode.txt - Script
 
 2 - inject.bin Paste into Rubber ducky Directory 
 
