@@ -1,4 +1,4 @@
-# Ducky-scripts
+# Disable Windows Defender on Windows 11
 
 1 - duckyscript.txt - Script
 
