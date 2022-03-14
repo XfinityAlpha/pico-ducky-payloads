@@ -14,4 +14,4 @@ Link :
 
 ********************
 
-Change the DELAY VALUE if the target system is VERY SLOW
+INCREASE the DELAY VALUE if the target system is VERY SLOW
