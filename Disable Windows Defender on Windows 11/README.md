@@ -9,3 +9,9 @@
 Link :
 
     https://github.com/dbisu/pico-ducky
+
+
+
+********************
+
+Change the DELAY VALUE if the target system is VERY SLOW
