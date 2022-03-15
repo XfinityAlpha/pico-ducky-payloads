@@ -5,4 +5,4 @@ In order for these scripts/payloads to work you need to convert Rasberry pi pico
 
 Link :
 
-https://github.com/dbisu/pico-ducky
+    https://github.com/dbisu/pico-ducky
