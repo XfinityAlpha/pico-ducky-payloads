@@ -1,4 +1,4 @@
-# Disable Windows Defender on Windows 11
+# Disable Windows Defender on Windows 11 << using GUI >>
 
 1 - duckycode.txt - Script text
 
