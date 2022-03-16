@@ -1,7 +1,7 @@
 REM Disable Windows Defender on WINDOWS 11
 REM Author: XfinityAlpha
 
-DELAY 1000
+DELAY 3000
 ESCAPE
 DELAY 300
 CONTROL ESCAPE
