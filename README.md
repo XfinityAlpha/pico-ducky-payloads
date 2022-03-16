@@ -9,7 +9,7 @@ Link :
 
 *************
 
-To Use these Payloads in a RUBBBER DUCKY , COPY the Code from duckycode.txt & convert it into inject.bin FILE using :
+To Use these Payloads in a RUBBBER DUCKY , COPY the Code from duckycode.txt & convert it into inject.bin FILE USING :
 
     https://ducktoolkit.com/encode
     
