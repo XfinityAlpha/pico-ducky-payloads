@@ -1,6 +1,6 @@
 # Disable Windows Defender on Windows 11 << using GUI >>
 
-1 - duckycode.txt - Script text
+1 - duckycode.txt - Script code 
 
 2 - payload.dd Paste into Rasberry pi pico Directory >> After converting it into a Rubber Ducky >> 
 
