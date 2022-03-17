@@ -1,4 +1,5 @@
-# Simple Virus (Non - Infectious)  << WINDOWS >>
+# Simple Virus (Non - Infectious)  
+# << WINDOWS >>
 
 1 - duckycode.txt - Script code 
 
