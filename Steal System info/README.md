@@ -1,4 +1,5 @@
-# STEAL SYSTEM INFO into Rubber Ducky (Raspberry pi pico) << WINDOWS >>
+# STEAL SYSTEM INFO into Rubber Ducky (Raspberry pi pico) 
+# << WINDOWS >>
 
 1 - duckycode.txt - Script code 
 
