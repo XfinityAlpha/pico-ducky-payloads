@@ -14,3 +14,5 @@ To Use these Payloads in a RUBBER DUCKY , COPY the Code from duckycode.txt & con
     https://ducktoolkit.com/encode
     
 Now these Payloads can be used in RUBBER DUCKY    
+
+*************
