@@ -1,4 +1,5 @@
-# YOUR'RE SO STUPID WALLPAPER PRANK  << WINDOWS >>
+# YOUR'RE SO STUPID WALLPAPER PRANK  
+# << WINDOWS >>
 
 1 - duckycode.txt - Script code 
 
